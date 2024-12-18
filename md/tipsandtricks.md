@@ -43,3 +43,12 @@ These are the default FastFlags that are set by default on Sober as of Sober ver
     "FLogFMOD": 0
 }
 ```
+
+## 5. Can't join a game instantly through the browser?
+There is a URL parameter that you can launch with to load into a game instantly as if you were launching through the brower.
+
+Just run `flatpak run org.vinegarhq.Sober "[URL]"`, where URL can accept:
+- `roblox://experience?placeId=[place-id]`
+- `placelauncherurl:https://www.roblox.com/Game/PlaceLauncher.ashx?request=RequestGame&placeId=[place-id]`
+
+> [place-id] is the field where you put the ID of a game
