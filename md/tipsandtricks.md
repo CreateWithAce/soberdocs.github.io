@@ -2,7 +2,9 @@
 ---
 
 ## 1. GPU doesn't support vulkan?
-You can set `"use_opengl"` to `true` in `~/.var/app/org.vinegarhq.Sober/data/sober/config.json`
+Sober should automatically fall back to OpenGL.
+
+If it doesn't, you can set `"use_opengl"` to `true` in `~/.var/app/org.vinegarhq.Sober/data/sober/config.json`
 
 ## 2. Forgot to save your logs for troubleshooting?
 Sober actually has a file for the logs. It's located at  `~/.var/app/org.vinegarhq.Sober/data/sober/sober_logs`
