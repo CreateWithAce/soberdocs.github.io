@@ -33,7 +33,7 @@ The main culprit behind this is basically due to textures being loaded at the hi
 ### Solution
 The solution below should be applied automatically once the crash is first detected.
 
-Append the following FFlags into the `"fflags"` section at `~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
+If it doesn't, append the following FFlags into the `"fflags"` section at `~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 ```
 "DFIntTextureQualityOverride": 2,
 "DFFlagTextureQualityOverrideEnabled": true
