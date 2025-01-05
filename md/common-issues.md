@@ -175,3 +175,21 @@ Icon=org.vinegarhq.Sober
 X-Flatpak=org.vinegarhq.Sober
 ```
 then/or create a symlink of that `.desktop` entry to `~/.local/share/flatpak/exports/share/applications`. Afterwards, follow the instructions for your DE to add the entry.
+
+---
+
+## Sober cannot detect a supported graphics card!
+
+Several scenarios could lead to this error:
+- You installed the graphics drivers from the source (installing from the AMD/NVIDIA website)
+- Drivers were not installed properly
+- Your drivers need to be updated
+- GPU acceleration for Crostini (Linux on ChromeOS) is not enabled
+
+### Solution
+
+Following the order as listed above:
+- Just don't install drivers straight from the source (since drivers are either already installed from the kernel or it's available from the package manager)
+- Follow instructions for your distro to correctly install the drivers
+- Run the applicable update command on your terminal in your distro AND run `flatpak update`
+- Open Chrome and type `chrome://flags/#crostini-gpu-support` into the search bar. Enable it and reboot.
