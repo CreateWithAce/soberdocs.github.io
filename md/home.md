@@ -13,7 +13,7 @@ The Discord server for Sober and Vinegar can be found [here](https://discord.gg/
 
 
 * Current Sober APK: v654
-* Current official Roblox APK: v654
+* Current official Roblox APK: v654 (v655 on Beta)
 
 <p class="tiny">End of Life (EOL) means the servers won't communicate with that version since it's too old.</p>
 
