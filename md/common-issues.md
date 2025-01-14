@@ -15,7 +15,7 @@ It means that the Roblox build Sober is in has reached it's end of the lifespan.
 | Build #                          | Build release date | Supported? | Estimated cutoff range             | Actual cutoff date |
 | -------------------------------- | ------------------ | ---------- | ---------------------------------- | ------------------ |
 | 652                              | 11/21/24           | No         | 12/18/24 - 12/26/24*               | 01/07/25           |
-| 653                              | 12/05/24           | Yes        | 01/17/25 - 01/21/25**              | N/A                |
+| 653                              | 12/05/24           | No         | 01/17/25 - 01/21/25**              | 01/14/25           |
 | 654 **(Current Sober build)**    | 12/10/24           | Yes        | 01/19/25 - 01/22/25**              | N/A                |
 | 655                              | 01/09/25           | Yes        | 02/04/25 - 02/08/25                | N/A                |
   
