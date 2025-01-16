@@ -2,6 +2,8 @@
 
 ---
 
+> Please feel free to contribute to this table via. Pull Requests with any valid results.
+
 ## Point release distros
 ### Debian
 | Tested version | Test date | Test authored by                              | Test method                    | Installs? | Runs? | Notes |
