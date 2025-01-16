@@ -47,6 +47,7 @@
 | Test date | Test authored by                              | Test method               | Installs? | Runs? | Notes |
 | --------- | --------------------------------------------- | ------------------------- | --------- | ----- | ----- |
 | 11/08/24  | [kirbix (k1yrix)](https://github.com/k1yrix)  | VMware Workstation 17.6.1 | Yes       | Yes   |       |
+| 01/14/25  | [kirbix (k1yrix)](https://github.com/k1yrix)  | Physical Machine          | Yes       | Yes   |       |
 
 ### Manjaro
 | Test date | Test authored by                              | Test method               | Installs? | Runs? | Notes |
