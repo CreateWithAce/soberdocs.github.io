@@ -47,17 +47,18 @@ These are the default FastFlags that are set by default on Sober as of Sober ver
 ```
 
 ## 5. Can't join a game instantly through the browser?
-There is a `[URL]` parameter that you can launch with on the command line to load into a game instantly as if you were launching through the browser.
+There is a `[URI]` parameter that you can launch with on the command line to load into a game instantly as if you were launching through the browser.
 
-Just run `flatpak run org.vinegarhq.Sober "[URL]"`, where URL can accept:
+Just run `flatpak run org.vinegarhq.Sober "[URI]"`, where the URI can accept:
 - `roblox://experience?placeId=[place-id]`
 - `placelauncherurl:https://www.roblox.com/Game/PlaceLauncher.ashx?request=RequestGame&placeId=[place-id]`
 
 > [place-id] is the field where you put the ID of a game
 
+> There are more parameters that can be used, however, those are going to be complex to understand.
+
 ## 6. Blocky lighting and/or bad performance?
 
 You can use OpenGL if you have issues with lighting, performance, and can also help with some other issues like roblox not running because lack of support. (Mentioned in #1)
 
-You can activate openGL by activating hidden files, navigating to /home/ACCOUNTNAME/.var/app/org.vinegarhq.Sober/config/sober/, and opening config.json.
-Then scroll to the bottom and set "use_opengl": false to "use_opengl": true.
+You can activate OpenGL by typing `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`. Then scroll to the bottom and set "use_opengl": false to "use_opengl": true.
