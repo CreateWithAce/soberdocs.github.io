@@ -140,7 +140,9 @@ Move your mouse while joining a game.
 ---
 
 ## Automatic download isn't working (Long hang time; falls back to manual install)
-Three out of ten chances is that your ISP is blocking access to Google Play's APIs, which is what Sober is attempting to contact in order to download the correct APK file. Otherwise, either you should check your internet connection or the API is down.
+## Installing Sober gives me a 403 error
+- Three out of ten chances is that your ISP is blocking access to Google Play's APIs, which is what Sober is attempting to contact in order to download the correct APK file. Otherwise, either you should check your internet connection or the API is down.
+- Three out of ten chances is that your ISP is blocking access to Sober's repo server in Cloudflare, which is what Flatpak is attempting to contact in order to obtain the Flatpak remote in order to download Sober. Otherwise, two out of ten could be that since the repo is a private web page, it cannot be accessed either way.
 
 > There have also been reports of being unable to copy the apk to a directory
 
