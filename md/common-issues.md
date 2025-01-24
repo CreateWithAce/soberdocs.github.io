@@ -20,7 +20,6 @@ It means that the Roblox build Sober is in has reached it's end of the lifespan.
 | 656                              | 01/16/25           | Yes        | 02/13/25 - 02/18/25                | N/A                |
 | 657                              | 01/24/25           | Yes        | 02/20/25 - 02/28/25                | N/A                |
   
-  *cutoff may be beyond the estimated range due to holiday vacation
   **cutoff estimation was pushed two weeks forward from the initial esimation due to holiday vacation
 </details>
 
