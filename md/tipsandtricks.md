@@ -62,3 +62,13 @@ Just run `flatpak run org.vinegarhq.Sober "[URI]"`, where the URI can accept:
 You can use OpenGL if you have issues with lighting, performance, and can also help with some other issues like roblox not running because lack of support. (Mentioned in #1)
 
 You can activate OpenGL by typing `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`. Then scroll to the bottom and set "use_opengl": false to "use_opengl": true.
+
+## 7. Want OcclusionCulling?
+Add the following FFlags into `~/.var/app/org.vinegarhq.Sober/config/sober/config.json` under the `"fflags"` section:
+
+```json
+{
+    "FFlagEnableVisBugChecks27": true,
+    "DFFlagUseVisBugChecks": true
+}
+```
