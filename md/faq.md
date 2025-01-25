@@ -38,6 +38,14 @@ A: Roblox does not have Studio for Android. Use [Vinegar](https://vinegarhq.org/
 ## Q: Why is Sober closed source?
 A: When the development team was making Sober, they wanted to ensure it wouldn't meet the same fate as Vinegar (being blocked). They recommended to make Sober closed source, to ensure no Exploit developers abuse it. Sadly, this is a necessary measure to ensure the continued existence of Roblox on Linux. On the bright side, this ensures that Sober will not be blocked in the long term, if no exploits are made for it, which the dev team will ensure.
 
+### SQ: But I heard Roblox is working on Hyperion for Android
+A:
+```
+note: there's a proper android anti-tamper being worked on @ roblox. while progress seems to be relatively slow, it will likely release this year, maybe even this quarter. once roblox android gets an anti-tamper, it's pretty unlikely we'll continue offering sober
+
+- a Sober dev
+```
+
 ---
 
 ## Q: Roblox is crashing after around 5-10 minutes in game!
@@ -59,3 +67,4 @@ A: Probably not, if ever. The Sober devs have said that there's no advantages to
 
 ## Q: Does it work with VR?
 A: No, as the Android version doesn't have support for VR. The Quest version is only on built on ARM and under a translation layer, it performs horribly.
+
