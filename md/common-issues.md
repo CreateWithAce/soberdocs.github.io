@@ -14,11 +14,11 @@ It means that the Roblox build Sober is in has reached it's end of the lifespan.
 
 | Build #                          | Build release date | Supported? | Estimated cutoff range             | Actual cutoff date |
 | -------------------------------- | ------------------ | ---------- | ---------------------------------- | ------------------ |
-| 654                              | 12/10/24           | No         | 01/19/25 - 01/22/25**              | 01/22/25           |
 | 655                              | 01/09/25           | Yes        | 02/04/25 - 02/08/25                | TBD                |
 | 656                              | 01/16/25           | Yes        | 02/13/25 - 02/18/25                | TBD                |
 | 657                              | 01/24/25           | Yes        | 02/20/25 - 02/28/25                | TBD                |
-| 658 **(Current Sober build)**    | 01/31/25           | Yes        | 02/24/25 - 03/08/25*               | -                  |
+| 658 **(Current Sober build)**    | 01/31/25           | Yes        | 02/24/25 - 03/08/25*               | TBD                |
+| 659                              | 02/06/25           | Yes        | 03/10/25 - 03/15/25                | TBD                |
   
   **cutoff estimation was pushed two weeks forward from the initial esimation due to holiday vacation
   *this estimation is a week further due to a slightly shorter month
