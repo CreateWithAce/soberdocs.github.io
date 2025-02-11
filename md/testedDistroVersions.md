@@ -12,7 +12,7 @@
 | 12             | 10/18/24  | [kirbix (k1yrix)](https://github.com/k1yrix)  | VMware Workstation 17.6.1      | Yes       | Yes   |       |
 
 ### Ubuntu
-> Ubuntu has multiple flavours based on the base desktop environment installed out of the box. Reguardless, they are to be treated as one.
+> Ubuntu has multiple flavours based on the base desktop environment installed out of the box. Regardless, they are to be treated as one.
 
 | Tested version | Test date | Test authored by                              | Test method                    | Installs? | Runs? | Notes |
 | -------------- | --------- | --------------------------------------------- | ------------------------------ | --------- | ----- | ----- |
@@ -20,7 +20,7 @@
 | 22.04 LTS      | 10/18/24  | [kirbix (k1yrix)](https://github.com/k1yrix)  | VMware Workstation 17.6.1      | Yes       | Yes   |       |
 
 ### Fedora Linux
-> Like Ubuntu, Fedora has other versions based on the base desktop environment installed out of the box. Likewise, they are to be treated as one reguardless.
+> Like Ubuntu, Fedora has other versions based on the base desktop environment installed out of the box. Likewise, they are to be treated as one regardless.
 
 | Tested version | Test date | Test authored by                              | Test method                    | Installs? | Runs? | Notes |
 | -------------- | --------- | --------------------------------------------- | ------------------------------ | --------- | ----- | ----- |
