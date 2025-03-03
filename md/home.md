@@ -1,4 +1,4 @@
-> Notice: The unofficial documentation is currently under efforts of merging into the mainspace `vinegarhq.org` documentation page. Please be aware that there will be little updates until all content has been merged over.
+> Notice: The unofficial documentation has been merged into the mainspace documentation on https://vinegarhq.org. This documentation has been archived. Please visit the mainspace documentation for up to date information.
 
 ## Welcome to the unofficial documentation for Sober!
 
